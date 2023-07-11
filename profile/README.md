@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Bozo:
 A FiveM Roleplay Framework Satirical
 
 ### ✍️ Random Dev Quote
